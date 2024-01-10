@@ -19,6 +19,12 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+
+# build docker
+$ npm run docker:build
+
+# run docker
+$npm run docker:run
 ```
 
 ## Test
